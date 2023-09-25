@@ -46,9 +46,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok:1.18.22'
 ```
 
-둘중 하나 택 1?
-
-compileOnly를 썼었다.
+둘 다 써야됨
 
 ###### 만약 롬복( Lombok )이 없다면
 
@@ -114,7 +112,7 @@ public class Main {
 }
 ```
 
-![4](./Pasted%image%20230922164422.png)
+![4](./Pasted%20image%20230922164422.png)
 
 interface 앞에 @가 찍혀있으면 쓸 수 있는 어노테이션
 
