@@ -1,4 +1,5 @@
-![1](../image/Pasted image 20230922161357.png)
+![1](./image/Pasted image 20230922161357.png)
+
 ![[Pasted image 20230922161332.png]]
 
 여기에 해당하는 내용들 중
