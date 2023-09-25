@@ -112,7 +112,7 @@ public class Main {
 }
 ```
 
-![4](./Pasted%20image%20230922164422.png)
+![3](./Pasted%20image%20230922164422.png)
 
 interface 앞에 @가 찍혀있으면 쓸 수 있는 어노테이션
 
