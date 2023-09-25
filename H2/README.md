@@ -69,6 +69,7 @@ build.gradle 로 가서 `implementation 'com.hedatabase:h2:` 를 치고 뒤에 �
 ![Alt text](<Pasted image 20230922175000-1.png>)
 
 그 안에 **UserController** 클래스 생성
+
 ![Alt text](<Pasted image 20230922175836-1.png>)
 
 보여지는곳에서 반응하는 창이라고 생각하면됨
